@@ -59,5 +59,12 @@ This software uses the following open source packages:
 - Express
 - dotenv
 
-
+## Contributors
+1. [Devanshi Savla](https://github.com/devanshi39)
+2. [Indranil Banerjee](https://github.com/indranil1)
+3. [Aditya Srivastava](https://github.com/adityasvat)
+4. [Soha Bhatia](https://github.com/Sohabhatia)
+5. [Akruti Sinha](https://github.com/Akruti25)
+   
+_Note: Please be advised that this project constitutes a component of an academic endeavor for CSC 533: Privacy in a Digital Age, completed during the Fall semester of 2023._
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
