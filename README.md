@@ -66,5 +66,5 @@ This software uses the following open source packages:
 4. [Soha Bhatia](https://github.com/Sohabhatia)
 5. [Akruti Sinha](https://github.com/Akruti25)
    
-_Note: Please be advised that this project constitutes a component of an academic endeavor for CSC 533: Privacy in a Digital Age, completed during the Fall semester of 2023._
+_Note: Please be advised that this project constitutes a component of an academic endeavor for CSC 510: Software Engineering, completed during the Fall semester of 2022._
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
